@@ -3,12 +3,13 @@
 
 This model can work on the Cifar-10, the model take the colour image as input, them its output try to reconstruct the image.
 *Why the model do this work, you can google the Autoencoder, it may help you more understand this theory.*
+
 It is authored by **YU LIN LIU**.
 
 ### Table of Contents
 - <a href='#model-architecture'>Model Architecture</a>
 - <a href='#installation'>Installation</a>
-- <a href='#datasets'>Datasets</a>
+- <a href='#dataset'>Dataset</a>
 - <a href='#training'>Training</a>
 - <a href='#evaluation'>Evaluation</a>
 - <a href='#performance'>Performance</a>
