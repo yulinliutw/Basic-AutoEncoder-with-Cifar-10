@@ -58,5 +58,5 @@ python eval.py
 - Some visualization result:
 
 <p align="center">
-<img src="https://github.com/yulinliutw/Basic-AutoEncoder-with-Cifar-10/blob/master/doc/result.png" alt=" " width="400" height="400"></p>
+<img src="https://github.com/yulinliutw/Basic-AutoEncoder-with-Cifar-10/blob/master/doc/result.png" alt=" " ></p>
 
