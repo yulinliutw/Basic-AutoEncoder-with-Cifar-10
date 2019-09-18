@@ -47,7 +47,7 @@ This action will show some result from model and the performane(average L1 loss 
 
 - Open the eval.py and check the argparse setting to understand the evaluation parameters.
 - Using the argparse for evaluation parameter setting.
-- Start the training.
+- Start the evaluation.
 ```Shell
 python eval.py
 ```	
